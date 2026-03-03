@@ -25,3 +25,4 @@ This is ANOTHER test paragraph, word.
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
 
 # Header Part II
+:fontawesome-brands-youtube:{ .youtube }
