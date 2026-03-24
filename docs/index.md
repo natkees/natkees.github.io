@@ -14,7 +14,7 @@ We're a group of undergraduate students in Virginia, who go to our local animal 
 We are: 
 
 * Nat Kees
-* Ana Portillo :D
+* Ana Portillo
 * Aine O'Reilly
 * Kayla Combs
 * Amanda Harrington
