@@ -2,13 +2,16 @@ site_name: Foster Care User Guide
 site_url: https://natkees.github.io/site
 theme:
   name: material
-markdown_extensions:
+<<<<<<< HEAD
+  markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+=======
 nav:
   - Introduction: 'index.md'
   - Section1: 'section1.md'
   - Section2: 'section2.md'
   - Section3: 'section3.md'
   - Section4: 'section4.md'
+>>>>>>> ce7275ef4903abdd5c13a47d5c21fa6615819c39
