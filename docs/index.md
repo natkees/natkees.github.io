@@ -22,26 +22,10 @@ And here are some <i>actual pictures</i> of us, hanging with the sweethearts  (A
 </body>
 
 
-<<<<<<< HEAD
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-Yo I'm ngl Idk what the thing is above this^? :D
-
-This is ANOTHER test paragraph, word.
-<<<<<<< HEAD
-=======
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
 
-# Header Part II
-:fontawesome-brands-youtube:{ .youtube }
->>>>>>> 3d9b91410b804ef0c5956c716fe790ad67259429
-=======
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
 
 !!!Note This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
 
 Now that you know who we are, read on to see if you're able and qualified to foster, what to expect from your foster cat or kitten, tips and tricks, and other ways to help animals in need!
->>>>>>> ce7275ef4903abdd5c13a47d5c21fa6615819c39
