@@ -1,5 +1,5 @@
 # IV
-## Grooming Tips From Kayla
+## Grooming Q&A
 <h><b>Question: Is it okay to give my kitten a bath?<b></h>
 
 <p>Answer: Yes! It can be beneficial for a kitten to get acclimated to baths, making bathing easier as an adult. That being said, it is very important to only wash cats and kittens with pet-safe soaps and lukewarm water. In addition, a cat’s face should never be washed or submerged. Simply wipe the face with a warm, damp cloth.</p>
@@ -16,4 +16,8 @@
 
 <p>When fostering kittens, you will be given litter, newspaper, and temporary compostable litter boxes. But you can also make a litter box from anything from a cardboard box to an aluminum baking bin. As long as the rim of the container is short enough for the kitten or cat to climb over, but still enough to hold about an inch or so of cat litter. It is best to scoop out dirty litter in the morning and evening, and then change out the litter completely once a week.</p>
 
+## House Keeping Q&A
+
 <h><b>Question: What should I do if my cat is scratching or eating things they shouldn't be?<b></h>
+
+<p></p>
