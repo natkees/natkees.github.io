@@ -9,3 +9,9 @@
 <h><b>Question: How do I reduce anxiety in kittens and cats?<b></h>
 
 <p>Puree squeezable cat treats are a very effective means of appeasing anxious cats and building trust and friendly relations, though the effects can be temporary. The best way to reduce anxiety and fear in your pets is to provide a safe, comfortable, and predictable space for them- including yourself. By treating the animals in your care with kindness and patience, they will learn to trust you and their environment. </p>
+
+<h><b>Question: How do I litter train my cat?<b></h>
+
+<p>Cats are only litter-box trained in the very early stages of development. Usually, the shelter will do this, but if you are a vetted foster pet parent or fostering a mother with babies, you may be able to do this yourself. 1-2 week old kittens are litter trained by associating the smell of the litter with urination. Tutorials are available on YouTube, but it is recommended to contact the shelter first.</p>
+
+<p>When fostering kittens, you will be given litter, newspaper, and temporary compostable litter boxes. But you can also make a litter box from anything from a cardboard box to an aluminum baking bin. As long as the rim of the container is short enough for the kitten or cat to climb over, but still enough to hold about an inch or so of cat litter. It is best to scoop out dirty litter in the morning and evening, and then change out the litter completely once a week.</p>
