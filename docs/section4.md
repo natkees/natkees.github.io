@@ -15,3 +15,5 @@
 <p>Cats are only litter-box trained in the very early stages of development. Usually, the shelter will do this, but if you are a vetted foster pet parent or fostering a mother with babies, you may be able to do this yourself. 1-2 week old kittens are litter trained by associating the smell of the litter with urination. Tutorials are available on YouTube, but it is recommended to contact the shelter first.</p>
 
 <p>When fostering kittens, you will be given litter, newspaper, and temporary compostable litter boxes. But you can also make a litter box from anything from a cardboard box to an aluminum baking bin. As long as the rim of the container is short enough for the kitten or cat to climb over, but still enough to hold about an inch or so of cat litter. It is best to scoop out dirty litter in the morning and evening, and then change out the litter completely once a week.</p>
+
+<h><b>Question: What should I do if my cat is scratching or eating things they shouldn't be?<b></h>
