@@ -20,4 +20,8 @@
 
 <h><b>Question: What should I do if my cat is scratching or eating things they shouldn't be?<b></h>
 
-<p></p>
+<p>It is important to have accessible enrichment for your animals. This can come in the form of toys, supervised time outside, or other playmates. Enrichment can be as simple as introducing new interactable items to your foster animal’s play space. My go-to is a good, crunchy paper bag or the cardboard tube from a roll of paper towels. That being said, if your cat accidentally scratches something you don’t want them to, it’s not because they hate you. Cats need to scratch in the same way that humans need to stretch. You can contact the shelter for a small scratch pad, or you can invest in a scratching pole for your cat. If all else fails, cats hate the texture of tin foil. Taping a crumpled sheet of tin foil to that armrest your cat loves to scratch will deter them from touching it while you train them to use a different item to sharpen their claws. </p>
+
+<p>
+With kittens, you can lightly trim their claws in order to get them used to the feeling. This will make it easier to trim their claws when they are adults. But a cat should NEVER be declawed. When trimming claws, never cut the pink nerve endings and blood vessels near the middle, because this will hurt them. Instead, trim only a few millimeters to remove sharp edges without taking off too much length. 
+ </p>
