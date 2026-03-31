@@ -1,7 +1,6 @@
 # Welcome to the Cat Foster Care Guide
 
 ## Planning to Foster a Cat?
-Here is a [link](https://www.nytimes.com/games/wordle/index.html). (It's to Wordle I just don't want to delete it yet I'm on a roll.)
 
 Planning to foster a cat? Well <i>congratulations</i>! You are about to embark on an amazing adventure with an amazing animal. You're giving sick cats a chance to heal, and kittens a chance to grow, until they find their forever homes. 
 
