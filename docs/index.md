@@ -20,7 +20,7 @@ We are:
 * Kayla Combs
 * Amanda Harrington
 
-And here are some <i>actual pictures</i> of us, hanging with the sweethearts  (Autumn, Sasha, etc., specfic names?):
+And here are some <i>actual pictures</i> of us, hanging with the sweethearts Wendy, (specfic names?):
 
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
 

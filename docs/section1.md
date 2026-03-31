@@ -1,3 +1,5 @@
+# Expectations
+
 ## Time Commitment
 
 Like people, every cat is different. Some require more time that you need to spend with them at home, and others are okay, perhaps even more comfortable, being left alone. A general estimate is that the daily time commitment when fostering sick or injured cats is two to three hours (more on this in the Q&A). Kittens are going to require more attentive care, and therefore a higher time commitment.
@@ -14,9 +16,10 @@ There are also more trivial aspects of each cat you’ll want to ask about. Do t
 
 ## Requirements and Expectations for the Foster Parent
 
-:fontawesome-brands-youtube:{ .youtube }
 
-!!! note Can’t foster but still want to get involved? Volunteer!
 
-What to donate & ways to help (ex. Cat Socialization)
+
+!!! Can’t foster but still want to get involved? Volunteer!
+
+Volunteering is a wonderful way to help support your local animal shelter. For example, at the Montgomery County Animal Care and Adoption Center, you can volunteer as a cat socializer and as a dog walker. Being a cat socializer volunteer means you visit the shelter and spend time petting the cats, which helps them get used to being less scared and more friendly when meeting unfamiliar people. This ultimately helps the cats get adopted!
 
