@@ -3,7 +3,7 @@
 ## Planning to Foster a Cat?
 Here is a [link](https://www.nytimes.com/games/wordle/index.html). (It's to Wordle I just don't want to delete it yet I'm on a roll.)
 
-Planning to foster a cat? Well <i>congratuations</i>! You are about to embark on an amazing adventure with an amazing animal. You're giving sick cats a chance to heal, and kittens a chance to grow, until they find their forever homes. 
+Planning to foster a cat? Well <i>congratulations</i>! You are about to embark on an amazing adventure with an amazing animal. You're giving sick cats a chance to heal, and kittens a chance to grow, until they find their forever homes. 
 
 While fostering can be a fun and rewarding experience, you are also helping an animal in need in a vulnerable period of its life. There are a lot of factors in cat fostering to consider, and there can be difficulties if you're unprepared for the experience.
 
