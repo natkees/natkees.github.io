@@ -20,8 +20,25 @@
 
 <h><b>Question: What should I do if my cat is scratching or eating things they shouldn't be?<b></h>
 
-<p>It is important to have accessible enrichment for your animals. This can come in the form of toys, supervised time outside, or other playmates. Enrichment can be as simple as introducing new interactable items to your foster animal’s play space. My go-to is a good, crunchy paper bag or the cardboard tube from a roll of paper towels. That being said, if your cat accidentally scratches something you don’t want them to, it’s not because they hate you. Cats need to scratch in the same way that humans need to stretch. You can contact the shelter for a small scratch pad, or you can invest in a scratching pole for your cat. If all else fails, cats hate the texture of tin foil. Taping a crumpled sheet of tin foil to that armrest your cat loves to scratch will deter them from touching it while you train them to use a different item to sharpen their claws. </p>
+<p>It is important to have accessible enrichment for your animals. This can come in the form of toys, supervised time outside, or other playmates. Enrichment can be as simple as introducing new interact-able items to your foster animal’s play space. My go-to is a good, crunchy paper bag or the cardboard tube from a roll of paper towels. That being said, if your cat accidentally scratches something you don’t want them to, it’s not because they hate you. Cats need to scratch in the same way that humans need to stretch. You can contact the shelter for a small scratch pad, or you can invest in a scratching pole for your cat. If all else fails, cats hate the texture of tin foil. Taping a crumpled sheet of tin foil to that armrest your cat loves to scratch will deter them from touching it while you train them to use a different item to sharpen their claws. </p>
 
 <p>
 With kittens, you can lightly trim their claws in order to get them used to the feeling. This will make it easier to trim their claws when they are adults. But a cat should NEVER be declawed. When trimming claws, never cut the pink nerve endings and blood vessels near the middle, because this will hurt them. Instead, trim only a few millimeters to remove sharp edges without taking off too much length. 
  </p>
+
+ <h><b>Question: Houseplants! What should I worry about?<b></h>
+
+ <p>Most house plants are safe for your cat, but if you are concerned or confused about a specific species, a quick Google search is always helpful. The general consensus is to assume a plant is toxic or harmful unless otherwise proven. Here are some of the most common house hold plants that are actually toxic to cats: Snake plant, English Ivy, Monstera, Bird of Paradise, lilies, poinsettia, Pathos, and fiddle leaf fig.</p>
+
+ <h><b>Question: How big a space should I reserve for my foster cat?<b></h>
+
+ <p>The size of the space you reserve for your foster cat depends on the size of the cat. Kittens that are only a few weeks old can be kept in a large dog crate or card board box without a lid. This is to keep the kittens from wandering off and getting lost or stuck in places that are hard to find, see, or reach. (speaking from experience here!). This is especially true if the kittens were born in a shelter and haven't had access to a large space before. Slowly introducing them to a safe and larger room can reduce anxiety and help boost their confidence.</p>
+
+  <p>Pro tip: Feral or not trusting kittens may appreciate a place to hide until they feel comfortable enough to explore. A little cardboard cave does wonders for this. Just make sure to let them come out on their own time!</p>
+
+
+   <p>Adult cats should at least be given a room or a room-sized space to roam. Once you start to warm up to eachother and you both feel comfortable with eachother, access to the whole apartment or house may make them feel more comfortable. But again, any space larger than the shelter kennel will be an improvement for these guys. Just make sure there are no plates your foster cat can get stuck in or escape outside from.</p>
+
+ <h><b>Question: How many hours should I be at home for?<b></h>
+
+ <p>Try not to be gone for more than 3 hours for kittens, especially if they do not have any playmates. Adult cats can be left alone for a few more hours than kittens if necessary, especially if they are familiar with their environment. But the cats and kittens that are often sent into fostering are the ones that would benefit the most from a loving home environment, rather than the noisy and stressful environment of the shelter. Being home with these cats and teaching them to trust people and their environment again is what fostering is all about.</p>
