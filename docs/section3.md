@@ -1,7 +1,7 @@
 ## III
 supplies to have/fosterspace in home/baby proofing
 
-<h><b>How do I Introduce my foster cat to my pets at home?<b></h>
+<h><b>How do I Introduce my foster cat to my pets at home?</b></h>
 
 <p> Introducing a foster cat to your resident pets should always be done slowly and intentionally. Even confident animals can become stressed when a new cat enters their space, so it is important to begin with separation. Keep your foster cat in a quiet room with their own food, water, litter box, and resting area for the first few days. Make sure any toys and bedding are washed and free of your current pet's scent. This allows the foster animal to adjust to their new environment and gain a sense of safety.  
 
@@ -10,7 +10,7 @@ For homes with resident cats, scent swapping is the safest first step. You can e
 For homes with resident dogs, it is especially important to ensure the dog is calm, leashed, and under full control during introductions. Many dogs are excited by small, fast‑moving animals, which can overwhelm a foster cat. Start by letting the dog sniff the foster cat’s scent under the door. When both animals appear comfortable, you can allow the dog to observe the cat from a distance while remaining seated and leashed. Reward calm behavior with treats and praise. Never allow a dog to chase, corner, or bark persistently at a foster cat, even in play. If the foster cat shows signs of fear such as hiding, flattening their ears, or refusing to come out, stop introductions and give them more time to adjust. 
 Regardless of the species, the most important part of introducing pets is patience. Some animals adapt within days, while others may need weeks. Always follow the shelter’s guidance, especially if your foster cat has medical or behavioral notes that affect how they should be introduced. </p>
 
-<h><b>Playing With Your Foster Cat<b></h>
+<h><b>Playing With Your Foster Cat</b></h>
 
 <p> Play is an essential part of caring for your foster cat. It helps reduce stress, builds confidence, and provides an outlet for natural hunting behaviors. You really don’t need expensive toys to keep a foster cat engaged. Simple, safe, and inexpensive options such as wand toys, crinkle balls, cardboard boxes, and paper bags without handles are often the most effective. Many cats also enjoy DIY toys like rolled‑up paper, toilet paper tubes, or felt strips tied to a string, as long as they are supervised during play. 
 
