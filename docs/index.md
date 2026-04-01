@@ -25,7 +25,7 @@ And here are some <i>actual pictures</i> of us, hanging with the sweethearts Wen
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
 ![local image](c:\Users\amand\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-31 164118.png)
 
-!!! note "Phasellus posuere in sem ut cursus"
+!!! note "Disclaimer!"
 
     This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
 
