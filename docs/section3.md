@@ -39,21 +39,21 @@ Dry food is similar to treats in shape and usually comes in either a packaged ba
 
 ![Dry Cat Food](https://www.catster.com/wp-content/uploads/2023/11/pouring-cat-food-in-a-bowl_Rawpixel.com-Shutterstock.jpg.webp)
 
-!!! note "Note: Water" 
+!!! note "Note: Water"
 
     Alongside both wet and dry food, it’s important to have a water bowl for them that is refilled daily. It is suggested that the water bowl should be placed near the food.
-
 
 ## Toys -section IV
 
 
-Litter boxes and litter box training 
-Cats are only litter-box trained in the very early stages of development. Usually, the shelter will do this, but if you are a vetted foster pet parent or fostering a mother with babies, you may be able to do this yourself. 1-2 week old kittens are litter trained by associating the smell of the litter with urination. Tutorials are available on YouTube, but it is recommended to contact the shelter first. 
+## Litter Boxes and Litter Box Training
 
-When fostering kittens, you will be given litter, newspaper, and temporary compostable litter boxes. But you can also make a litter box from anything from a cardboard box to an aluminum baking bin. As long as the rim of the container is short enough for the kitten or cat to climb over, but still enough to hold about an inch or so of cat litter. It is best to scoop out dirty litter in the morning and evening, and then change out the litter completely once a week. 
+Cats are only litter-box trained in the very early stages of development. Usually, the shelter will do this, but if you are a vetted foster pet parent or fostering a mother with babies, you may be able to do this yourself. 1-2 week old kittens are litter trained by associating the smell of the litter with urination. Tutorials are available on YouTube, but it is recommended to contact the shelter first.
 
-Litter Box Cleaning - section V
-Have a scooper, litter, a litter box, and a specific trashcan with a lid that is dedicated to cat litter. Try to scoop out the poop clumps (anything hard in the litter box) every day and put them in the trashcan. You can wait a few days to do this, but it’s not recommended to wait too long, as this can upset the foster cats into not using the litter box anymore (which would lead to accidents around the house).
+When fostering kittens, you will be given litter, newspaper, and temporary compostable litter boxes. But you can also make a litter box from anything from a cardboard box to an aluminum baking bin. As long as the rim of the container is short enough for the kitten or cat to climb over, but still enough to hold about an inch or so of cat litter. It is best to scoop out dirty litter in the morning and evening, and then change out the litter completely once a week.
 
-IMAGE:
-https://d3544la1u8djza.cloudfront.net/APHI/Blog/2016/June/06-27/what+to+do+if+your+cat+is+constipated+_+scooping+out+a+cat+litter+box+-min.jpg
+## Litter Box Cleaning
+
+Have a scooper and a specific trashcan with a lid that is dedicated to cat litter. Try to scoop out the poop clumps (anything hard in the litter box) every day and put them in the trashcan. You can wait a few days to do this, but it’s not recommended to wait too long, as this can upset the foster cats into not using the litter box anymore (which would lead to accidents around the house).
+
+![Litter Box](https://d3544la1u8djza.cloudfront.net/APHI/Blog/2016/June/06-27/what+to+do+if+your+cat+is+constipated+_+scooping+out+a+cat+litter+box+-min.jpg)

@@ -12,11 +12,13 @@ theme:
       admonition:
       <type>: <icon>
 theme:
+  name: material
   palette:
-    primary: brown
+  primary: brown
 theme:
+  name: material
   palette:
-    accent: amber
+  accent: amber
 nav:
   - Welcome!: 'index.md'
   - Expectations: 'section1.md'
