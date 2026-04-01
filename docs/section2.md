@@ -16,16 +16,15 @@ Did you know? Some common plants and flowers are actually very toxic to cats. No
 ## Given Supplies vs. What You May Want to Buy (Fostering on a Budget)
 
 As a cat foster parent, you will be provided with:
-- A litter box
-- Litter
-- A litter scooper
-- Food (wet and dry)
-- Water and food bowls
-- Toys
-- A scratcher
+  * A litter box
+  * Litter
+  * A litter scooper
+  * Food (wet and dry)
+  * Water and food bowls
+  * Toys
+  * A scratcher
 
 If the shelter you are working with to foster pets refuses to provide these supplies without adequate reasoning, that may be an indication that they are not a great organization to foster from. You may, of course, want to purchase additional supplies. It is helpful to have plastic bags on hand for disposing of litter, as well as paper towels, rags, and spray bottles for cleaning and disinfecting. It is always fun to get new toys for your foster pet, just make sure these are being sanitized too. You will likely be provided with some towels and blankets, but consider having more on hand, and cat beds for them to sleep on can help make your foster cat feel extra cozy and safe. You may want to consider buying metal food bowls, as plastic or other bowls can cause acne and are more porous, therefore harder to clean. 
-
 
 **Kittens!**
 

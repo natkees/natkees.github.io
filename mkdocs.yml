@@ -1,15 +1,15 @@
 site_name: Cat Foster Care User Guide
 site_url: https://natkees.github.io/site
 theme:
-name: material
+    name: material
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - note
 theme:
+  name: material
   icon:
-    admonition:
+      admonition:
       <type>: <icon>
 nav:
   - Welcome!: 'index.md'
