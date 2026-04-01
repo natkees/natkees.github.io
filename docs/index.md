@@ -23,9 +23,10 @@ We are:
 And here are some <i>actual pictures</i> of us, hanging with the sweethearts Wendy, (specfic names?):
 
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
-![local image]]()
+![local image](c:\Users\amand\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-31 164118.png)
 
-!!! Note
-This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
+!!! note "Disclaimer!"
+
+    This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
 
 Now that you know who we are, read on to see if you're able and qualified to foster, what to expect from your foster cat or kitten, tips and tricks, and other ways to help animals in need!

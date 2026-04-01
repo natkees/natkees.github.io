@@ -1,8 +1,6 @@
-# II
+# Setting Up Your Space for Your Foster Pet & Guidelines for Kittens!
 
-<b>Foster space in home<b> 
-
-[click here for more Bae Bae](#){ .md-button }
+## Foster Space in the Home
 
 Before you introduce a foster pet into your home, it is imperative to make sure that the space they will be living in is a safe and calm environment. Think of it as “babyproofing” your home for your new guest. This will help both you and your wonderful foster pet be as comfortable as possible! If you have an office or bonus space that is not being currently used, these are great options. If a separate room is not available, be sure that you use a separator to create an enclosement, particularly for kittens who should not be allowed to roam freely throughout a home. Make sure that it is a space that is separated from any other household pets. This is important because it will prevent the spread of disease between animals and will prevent distress between new pets entering the home. Additionally, foster pets should be kept adequately separated from any young children, and should only interact with said children when monitored by an adult. Be sure to consider if the space you plan to have your foster pets is a room where the temperature can be controlled. This can include AC, fans, heating system, or a heater, but be cautious when utilizing space heaters or other portable devices that could be hot to the touch.   
 
@@ -12,24 +10,24 @@ Prior to letting any furry new friends enter your home, make sure to disinfect. 
 
 For your own ease, try to find a foster space in your home with limited carpet and upholstery, particularly those that are difficult to clean as pets can be messy, and spaces should be cleaned frequently. Double check that all windows and doors can be closed all the way, foster cats should not be let outdoors! Also, be sure to close or seal off toilet lids as much as possible. 
 
-Did you know? Some common plants and flowers are actually very toxic to cats. Non-safe common household plants include: lilies, sago palms, corn plant, aloe plant, asparagus fern. A comprehensive list of toxic and non-toxic plants for cats can be found on the ASPCA website.
+Did you know? Some common plants and flowers are actually very toxic to cats. Non-safe common household plants include: lilies, sago palms, corn plant, aloe plant, asparagus fern. A comprehensive list of toxic and non-toxic plants for cats can be found on the [ASPCA website](https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list).
 
 
-<b>Given supplies vs what you may want to buy (fostering on a budget)<b>
+## Given Supplies vs. What You May Want to Buy (Fostering on a Budget)
 
 As a cat foster parent, you will be provided with:
-A litter box
-Litter
-A litter scooper
-Food (wet and dry)
-Water and food bowls
-Toys
-A scratcher
+- A litter box
+- Litter
+- A litter scooper
+- Food (wet and dry)
+- Water and food bowls
+- Toys
+- A scratcher
 
 If the shelter you are working with to foster pets refuses to provide these supplies without adequate reasoning, that may be an indication that they are not a great organization to foster from. You may, of course, want to purchase additional supplies. It is helpful to have plastic bags on hand for disposing of litter, as well as paper towels, rags, and spray bottles for cleaning and disinfecting. It is always fun to get new toys for your foster pet, just make sure these are being sanitized too. You will likely be provided with some towels and blankets, but consider having more on hand, and cat beds for them to sleep on can help make your foster cat feel extra cozy and safe. You may want to consider buying metal food bowls, as plastic or other bowls can cause acne and are more porous, therefore harder to clean. 
 
 
-<b>Kittens!<b>
+**Kittens!**
 
 Additional supplies needed for kittens:
 

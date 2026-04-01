@@ -6,11 +6,13 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - note
+theme:
+  icon:
+    admonition:
+      note: octicons/tag-16
 nav:
   - Welcome!: 'index.md'
   - Expectations: 'section1.md'
   - Section2: 'section2.md'
   - Bringing Your Foster Cat Home: 'section3.md'
   - Q&A: 'section4.md'
-

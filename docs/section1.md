@@ -16,10 +16,13 @@ There are also more trivial aspects of each cat you’ll want to ask about. Do t
 
 ## Requirements and Expectations for the Foster Parent
 
-It is expected that you will have a foster space available for your cat. These foster spaces will help cats feel safe more quickly in your home (see <b>Foster Space in Home</b> for more information). You will also be required to actively care for the animal. To spend time with it, to feed it, keep its space cleanly, to give it patience and give it love. You are their guardian.
+It is expected that you will have a foster space available for your cat. These foster spaces will help cats feel safe more quickly in your home (see <b>Foster Space in the Home</b> for more information). You will also be required to actively care for the animal. To spend time with it, to feed it, keep its space cleanly, to give it patience and give it love. You are their guardian.
 
 Do not be stressed! You will have the animal shelter to lean on for advice, and for emergencies. But be sure you are a figure that is taking care of your foster cat, someone keeping a lookout for emergencies, and a person that helps the cat feel comfortable. Sometimes, you need to be their second chance.
 
 !!! note "Can’t foster but still want to get involved? Volunteer!"
 
-Volunteering is a wonderful way to help support your local animal shelter. For example, at the Montgomery County Animal Care and Adoption Center, you can volunteer as a cat socializer and as a dog walker. Being a cat socializer volunteer means you visit the shelter and spend time petting the cats, which helps them get used to being less scared and more friendly when meeting unfamiliar people. This ultimately helps the cats get adopted!
+    Volunteering is a wonderful way to help support your local animal shelter. For example, at the Montgomery County Animal Care and Adoption Center, you can volunteer as a cat socializer and as a dog walker. Being a cat socializer volunteer means you visit the shelter and spend time petting the cats, which helps them get used to being less scared and more friendly when meeting unfamiliar people. This ultimately helps the cats get adopted!
+
+    Every shelter has their own process for volunteers, but for Montgomery County, visit their website (LINK: https://montva.com/1/departments-services/animal-care-adoption-center/volunteer) under the “Volunteer” tab to submit an application, and a contact will follow up with you to watch an online training on reading cat behavior. Finally, after your volunteer info gets approved, they use VicNet to host your login info that you use in the front desk kiosks every time you come to volunteer.
+
