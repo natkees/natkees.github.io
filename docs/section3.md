@@ -25,7 +25,7 @@ Regular play sessions, even just 10–15 minutes twice a day, can make a signifi
 
 ## Feeding: Wet vs. Dry Food
 
-It is important to know what type of food (LINK: https://en.wikipedia.org/wiki/Cat_food) your cat prefers, so definitely ask the shelter for their recommendations. It might be helpful to have both wet and dry food on hand at the beginning and see which they like better, and for kittens, definitely consider wet food first to be easier for them to eat.
+It is important to know [what type of food](https://en.wikipedia.org/wiki/Cat_food) your cat prefers, so definitely ask the shelter for their recommendations. It might be helpful to have both wet and dry food on hand at the beginning and see which they like better, and for kittens, definitely consider wet food first to be easier for them to eat.
 
 Wet food comes in small tins, the kind that you have to pop open in a similar fashion to opening a Coca-cola can. Inside, these tin cans carry the actual wet cat food, which consists of meat cooked with a slightly soupy vibe. It is recommended that you use the metal top you peeled off as a spoon of sorts to scoop out the remaining bits onto a paper plate and place in the same place as always throughout your time fostering a cat.
 
@@ -33,18 +33,18 @@ Wet food comes in small tins, the kind that you have to pop open in a similar fa
 
     Please note that wet cat food needs to be refrigerated. 
 
-IMAGE:
-https://www.orijenpetfoods.com/on/demandware.static/-/Sites-orijen_na-Library/default/dw78aafc43/images/orijen/orijen-chunks/chunks-bowl.webp
+![Wet Cat Food](https://www.orijenpetfoods.com/on/demandware.static/-/Sites-orijen_na-Library/default/dw78aafc43/images/orijen/orijen-chunks/chunks-bowl.webp)
 
 Dry food is similar to treats in shape and usually comes in either a packaged bag or box. These may have different flavors such as salmon, and may appear multicolored or all one color. It’s recommended to get a bowl for this type of food, and refill it daily.
 
-IMAGE:
-https://www.catster.com/wp-content/uploads/2023/11/pouring-cat-food-in-a-bowl_Rawpixel.com-Shutterstock.jpg.webp
+![Dry Cat Food](https://www.catster.com/wp-content/uploads/2023/11/pouring-cat-food-in-a-bowl_Rawpixel.com-Shutterstock.jpg.webp)
 
-Note: Water. Alongside both wet and dry food, it’s important to have a water bowl for them that is refilled daily. It is suggested that the water bowl should be placed near the food.
+!!! note "Note: Water" 
+
+    Alongside both wet and dry food, it’s important to have a water bowl for them that is refilled daily. It is suggested that the water bowl should be placed near the food.
 
 
-Toys -section IV
+## Toys -section IV
 
 
 Litter boxes and litter box training 
