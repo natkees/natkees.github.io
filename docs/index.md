@@ -20,11 +20,7 @@ We are:
 * Kayla Combs
 * Amanda Harrington
 
-<<<<<<< Updated upstream
-And here are some <i>actual pictures</i> of us, hanging with the sweethearts Like Bae Bae!
-=======
 And here are some <i>actual pictures</i> of us, hanging with the sweethearts like Bae Bae and Wendy:
->>>>>>> Stashed changes
 
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
 ![local image](https://drive.google.com/file/d/1k-OHeFUJvubYlaPgyblPkOSKKS8M0tB1/view?usp=sharing)
