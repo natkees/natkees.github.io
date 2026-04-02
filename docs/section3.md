@@ -34,11 +34,13 @@ Wet food comes in small tins, the kind that you have to pop open in a similar fa
     Please note that wet cat food needs to be refrigerated. 
 
 ![Wet Cat Food](https://www.orijenpetfoods.com/on/demandware.static/-/Sites-orijen_na-Library/default/dw78aafc43/images/orijen/orijen-chunks/chunks-bowl.webp)
+
 A bowl of wet cat food via Orijenpet Foods.
 
 Dry food is similar to treats in shape and usually comes in either a packaged bag or box. These may have different flavors such as salmon, and may appear multicolored or all one color. It’s recommended to get a bowl for this type of food, and refill it daily.
 
 ![Dry Cat Food](https://www.catster.com/wp-content/uploads/2023/11/pouring-cat-food-in-a-bowl_Rawpixel.com-Shutterstock.jpg.webp)
+
 A bowl of dry cat food via Catster.
 
 !!! note "Note: Water"
@@ -56,6 +58,7 @@ When fostering kittens, you will be given litter, newspaper, and temporary compo
 Have a scooper and a specific trashcan with a lid that is dedicated to cat litter. Try to scoop out the poop clumps (anything hard in the litter box) every day and put them in the trashcan. You can wait a few days to do this, but it’s not recommended to wait too long, as this can upset the foster cats into not using the litter box anymore (which would lead to accidents around the house).
 
 ![Litter Box](https://d3544la1u8djza.cloudfront.net/APHI/Blog/2016/June/06-27/what+to+do+if+your+cat+is+constipated+_+scooping+out+a+cat+litter+box+-min.jpg)
+
 A litter box with a scooper via Cloudfront.
 
 Check out more information on litter boxes and more in the Q&A section!
