@@ -20,12 +20,6 @@ We are:
 * Kayla Combs
 * Amanda Harrington
 
-And here are some <i>actual pictures</i> of us, hanging with the sweethearts  (Autumn, Sasha, etc., specfic names?):
-
-![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
-
-![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
-
 !!!Note This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
 
 Now that you know who we are, read on to see if you're able and qualified to foster, what to expect from your foster cat or kitten, tips and tricks, and other ways to help animals in need!
