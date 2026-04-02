@@ -45,9 +45,6 @@ Dry food is similar to treats in shape and usually comes in either a packaged ba
 
     Alongside both wet and dry food, it’s important to have a water bowl for them that is refilled daily. It is suggested that the water bowl should be placed near the food.
 
-## Toys -section IV
-
-
 ## Litter Boxes and Litter Box Training
 
 Cats are only litter-box trained in the very early stages of development. Usually, the shelter will do this, but if you are a vetted foster pet parent or fostering a mother with babies, you may be able to do this yourself. 1-2 week old kittens are litter trained by associating the smell of the litter with urination. Tutorials are available on YouTube, but it is recommended to contact the shelter first.
@@ -60,3 +57,5 @@ Have a scooper and a specific trashcan with a lid that is dedicated to cat litte
 
 ![Litter Box](https://d3544la1u8djza.cloudfront.net/APHI/Blog/2016/June/06-27/what+to+do+if+your+cat+is+constipated+_+scooping+out+a+cat+litter+box+-min.jpg)
     A litter box with a scooper via Cloudfront.
+
+Check out more information on litter boxes and more in the Q&A section!
