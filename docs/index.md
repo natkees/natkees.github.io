@@ -27,7 +27,7 @@ And here are some <i>actual pictures</i> of us, hanging with the sweethearts lik
 >>>>>>> Stashed changes
 
 ![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
-![local image](c:\Users\amand\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-31 164118.png)
+![local image](https://drive.google.com/file/d/1k-OHeFUJvubYlaPgyblPkOSKKS8M0tB1/view?usp=sharing)
     A picture of Bae Bae, a gray cat in the Montgomery animal shelter.
 
 !!! note "Disclaimer!"
