@@ -1,15 +1,27 @@
 site_name: Cat Foster Care User Guide
 site_url: https://natkees.github.io/site
 theme:
-name: material
+    name: material
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+theme:
+  name: material
+  icon:
+      admonition:
+      <type>: <icon>
+theme:
+  name: material
+  palette:
+    primary: brown
+theme:
+  name: material
+  palette:
+    accent: amber
 nav:
-  - Introduction: 'index.md'
-  - Section1: 'section1.md'
-  - Section2: 'section2.md'
-  - Section3: 'section3.md'
-  - Section4: 'section4.md'
-
+  - Welcome!: 'index.md'
+  - Expectations: 'section1.md'
+  - Foster Space and Kittens: 'section2.md'
+  - Bringing Your Foster Cat Home: 'section3.md'
+  - Q&A: 'section4.md'
