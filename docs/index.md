@@ -20,18 +20,10 @@ We are:
 * Kayla Combs
 * Amanda Harrington
 
-<<<<<<< HEAD
-!!!Note This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
-=======
 And here are some <i>actual pictures</i> of us, hanging with the sweethearts like Bae Bae and Wendy:
 
-![bae bae](https://us08d.sheltermanager.com/service?account=em1295&method=animal_image&animalid=14930)
-![local image](https://drive.google.com/file/d/1k-OHeFUJvubYlaPgyblPkOSKKS8M0tB1/view?usp=sharing)
-    A picture of Bae Bae, a gray cat in the Montgomery animal shelter.
+![](/docs/IMG_0138.jpg)
 
-!!! note "Disclaimer!"
-
-    This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
->>>>>>> 94d9d89ea8d4061078b1afeb6e6b3f6e7997309b
+!!!Note This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
 
 Now that you know who we are, read on to see if you're able and qualified to foster, what to expect from your foster cat or kitten, tips and tricks, and other ways to help animals in need!
