@@ -20,9 +20,15 @@ We are:
 * Kayla Combs
 * Amanda Harrington
 
-And here are some <i>actual pictures</i> of us, hanging with the sweethearts like Bae Bae and Wendy:
+And here are some <i>actual pictures</i> of us, hanging with the sweethearts like Peep, McGee and Gibbs, Autumn, and Luna <3:
 
-![](/docs/IMG_0138.jpg)
+![](IMG_0138.jpg)
+
+![](McGee_and_Smth_this_one.jpg)
+
+![](Autumn_this_one.jpg)
+
+![](us-and-luna.png)
 
 !!!Note This guide is based off the experience and directions of the Montgomery County Animal Care and Adoption Center. However, this information and advice can be applied to other shelters outside of the NRV area.
 
