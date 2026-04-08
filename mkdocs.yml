@@ -17,7 +17,7 @@ theme:
     primary: brown
 theme:
   name: material
-  palette: amber
+  palette:
     accent: amber
 nav:
   - Welcome!: 'index.md'
