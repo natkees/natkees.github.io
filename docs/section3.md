@@ -43,7 +43,7 @@ Dry food is similar to treats in shape and usually comes in either a packaged ba
 
 A bowl of dry cat food via Catster.
 
-!!! note "Note: Water"
+!!! note
 
     Alongside both wet and dry food, it’s important to have a water bowl for them that is refilled daily. It is suggested that the water bowl should be placed near the food.
 
