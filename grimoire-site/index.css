@@ -5,22 +5,25 @@ html {
 
 main {
   flex-grow: 1;
+  background: #a89052;
 }
 
 h1 {
   font-family: "Jacquard 24", system-ui;
-  color: rgb(163, 30, 163);
+  color: rgb(89, 11, 89);
   font-size: 56px;  
   font-style: bold;
 }
 
 body {
   height: 100%;
-  width: 350px;
+  width: 250px;
   margin: 0 auto;
+  background: #a89052;
 }
 
 nav {
+  background: #8f7a44;
   font-family: "Jacquard 24", system-ui;
   font-size: 22px;
   font-style: normal;
@@ -29,7 +32,7 @@ nav {
 
 main {
   height: 100%;
-  width: 350px;
+  width: 250px;
   margin: 0 auto;
   font-size: 16px;
   font-family: "MedievalSharp", cursive;
@@ -39,4 +42,9 @@ main {
 
 li {
   padding-bottom: 10px;
+}
+
+footer {
+  background: #8f7a44;
+  font-size: 12px;  
 }
