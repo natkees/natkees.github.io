@@ -7,7 +7,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">  
-    <link rel="stylesheet" href="about.css">
+    <link rel="stylesheet" href="wand-practice.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Jacquard+24&family=MedievalSharp&display=swap" rel="stylesheet">
@@ -21,10 +21,10 @@
       <div class="collapse navbar-collapse" id="navbar">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item"> <a class="nav-link "href="index.html">Opening</a> </li>
-          <li class="nav-item"> <a class="nav-link active" aria-current="page" href="about.html">About</a> </li>
+          <li class="nav-item"> <a class="nav-link  href="about.html">About</a> </li>
           <li class="nav-item"> <a class="nav-link" href="peculiar-potions.html">Peculiar Potions</a> </li>
           <li class="nav-item"> <a class="nav-link" href="bewitching-beats.html">Bewitching Beats</a> </li>
-          <li class="nav-item"> <a class="nav-link "href="wand-practice.html">Wand Practice</a> </li>
+          <li class="nav-item"> <a class="nav-link active" aria-current="page "href="wand-practice.html">Wand Practice</a> </li>
         </ul>
       </div>
     </div>
@@ -32,20 +32,29 @@
   <main class="container flex-grow-1">
     <div>
       <div class="d-flex justify-content-center">
-  <span><h1>About This Tome</h1></span>
+  <span><h1>Wand Practice</h1></span>
   </div>
 </div>
     <div class="mx-auto p-2" style="width: 875px;">
-    <div> 
+    <div class="mx-auto p-2" style="width: 875px;"> 
         <body>
-            <p>Let's get serious for a second:</p>
-            <p>I know a lot of you aren't actually wizards. I mean, <i>I</i> am, but a lot of you reading this are probably ordinary humans, and that's alright. I want this website to be for you non-magic folk, too.</p>
-            <p>Wizards and witches aren't the only ones who can benefit from having a grimoire. Let's say you're having a bunch of friends over, or a thirsty murder of crows. Maybe you want some refreshments for the table?
-              Or you're running a DnD campaign, set in what you've convinced your players is a "fictional" fantasy land. Maybe you want some melodies to go along with the adventure?
-              While this guide may be <i>meant</i> for magicians, anyone and everyone can look into its pages and find something that may just serve them well when it comes to the fantastical (or to emulating it).
+            <p>
+
+<script type="text/javascript">
+(function(){function C(){e.globalCompositeOperation="source-over";e.fillStyle="rgba(8,8,12,0.65)";e.fillRect(0,0,f,p);e.globalCompositeOperation="lighter";x=q-u;y=r-v;u=q;v=r;for(var d=0.86*f,l=0.125*f,m=0.5*f,t=Math.random,n=Math.abs,o=z;o--;){var h=A[o],i=h.x,j=h.y,a=h.a,b=h.b,c=i-q,k=j-r,g=Math.sqrt(c*c+k*k)||0.001,c=c/g,k=k/g;if(w&&g<m)var s=14*(1-g/m),a=a+(c*s+0.5-t()),b=b+(k*s+0.5-t());g<d&&(s=0.0014*(1-g/d)*f,a-=c*s,b-=k*s);g<l&&(c=2.6E-4*(1-g/l)*f,a+=x*c,b+=y*c);a*=B;b*=B;c=n(a);k=n(b);g=
+0.5*(c+k);0.1>c&&(a*=3*t());0.1>k&&(b*=3*t());c=0.45*g;c=Math.max(Math.min(c,3.5),0.4);i+=a;j+=b;i>f?(i=f,a*=-1):0>i&&(i=0,a*=-1);j>p?(j=p,b*=-1):0>j&&(j=0,b*=-1);h.a=a;h.b=b;h.x=i;h.y=j;e.fillStyle=h.color;e.beginPath();e.arc(i,j,c,0,D,!0);e.closePath();e.fill()}}function E(d){d=d?d:window.event;q=d.clientX-m.offsetLeft-n.offsetLeft;r=d.clientY-m.offsetTop-n.offsetTop}function F(){w=!0;return!1}function G(){return w=!1}function H(){this.color="rgb("+Math.floor(255*Math.random())+","+Math.floor(255*
+Math.random())+","+Math.floor(255*Math.random())+")";this.b=this.a=this.x=this.y=0;this.size=1}var D=2*Math.PI,f=1E3,p=560,z=600,B=0.96,A=[],o,e,n,m,q,r,x,y,u,v,w;window.onload=function(){o=document.getElementById("mainCanvas");if(o.getContext){m=document.getElementById("outer");n=document.getElementById("canvasContainer");e=o.getContext("2d");for(var d=z;d--;){var l=new H;l.x=0.5*f;l.y=0.5*p;l.a=34*Math.cos(d)*Math.random();l.b=34*Math.sin(d)*Math.random();A[d]=l}q=u=0.5*f;r=v=0.5*p;document.onmousedown=
+F;document.onmouseup=G;document.onmousemove=E;setInterval(C,33);document.getElementById("output").innerHTML=''}else document.getElementById("output").innerHTML="Sorry, needs a recent version of Chrome, Firefox, Opera, Safari, or Internet Explorer 9."}})();
+</script>
+</head>
+<body>
+<div id="outer">
+<div id="canvasContainer">
+<canvas id="mainCanvas" width="1000" height="560"></canvas>
+<div id="output"></div>
+</div>
+
             </p>
-            <p>My name is Nat, and I'm a 100% verified wizard and college student in a 'developing online content' class. All information and media found in this grimoire is either created by me, or properly credited at the bottom of the page.</p>
-            <p>Thank you for clicking through! May the magic pages ahead open themselves up to you.</p>
         </body>
       </div>
     </div>
