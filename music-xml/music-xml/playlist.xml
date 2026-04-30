@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+    <track>
+    <title>Gravedigger</title>
+    <artist>Dave Matthews</artist>
+    <album>Some Devil</album>
+    <link>https://www.youtube.com/watch?v=-XtjGR46hEU</link>
+  </track>
+  <track>
+    <title>Pork Soda</title>
+    <artist>Glass Animals</artist>
+    <album>How to be a Human Being</album>
+    <link>https://www.youtube.com/watch?v=N3XGLKLoryY</link>
+  </track>
+  <track>
+    <title>And the Hound</title>
+    <artist>Yaelokre</artist>
+    <album>And the Hound</album>
+    <link>https://www.youtube.com/watch?v=bgLN3xZlr4c</link>
+  </track>
+    <track>
+    <title>Angel</title>
+    <artist>Massive Attack</artist>
+    <album>Mezzanine</album>
+    <link>https://www.youtube.com/watch?v=66A_3uwuZ_I</link>
+  </track>
+    <track>
+    <title>Silver Springs</title>
+    <artist>Fleetwood Mac</artist>
+    <album>Rumors</album>
+    <link>https://www.youtube.com/watch?v=kVE4aOUX2iM</link>
+  </track>
+</playlist>
