@@ -17,7 +17,7 @@ h1 {
 
 body {
   height: 100%;
-  width: 250px;
+  width: 350px;
   margin: 0 auto;
   background: #a89052;
 }
@@ -31,8 +31,6 @@ nav {
 }
 
 main {
-  height: 100%;
-  width: 250px;
   margin: 0 auto;
   font-size: 16px;
   font-family: "MedievalSharp", cursive;
