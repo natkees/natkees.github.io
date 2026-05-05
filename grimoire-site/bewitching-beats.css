@@ -43,6 +43,10 @@ main {
   font-style: normal;
 }
 
+a {
+  color: rgb(89, 11, 89);
+}
+
 li {
   padding-bottom: 10px;
 }
